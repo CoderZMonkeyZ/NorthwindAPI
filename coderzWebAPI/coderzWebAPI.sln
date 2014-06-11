@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderzWebAPI", "coderzWebAPI\coderzWebAPI.csproj", "{0FD849DA-E495-4A50-B3E0-CC72884BF0BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderzModel", "coderzModel\coderzModel.csproj", "{01D7FD14-147A-43A6-BAEC-9ABCD376BA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderzAdapter", "coderzAdapter\coderzAdapter.csproj", "{7F32F7B9-08A6-4F66-8687-6C8F433FC4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderzFramework", "coderzFramework\coderzFramework.csproj", "{630408D8-B53F-4AD7-B1DB-EB8A42284628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD849DA-E495-4A50-B3E0-CC72884BF0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD849DA-E495-4A50-B3E0-CC72884BF0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD849DA-E495-4A50-B3E0-CC72884BF0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD849DA-E495-4A50-B3E0-CC72884BF0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D7FD14-147A-43A6-BAEC-9ABCD376BA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D7FD14-147A-43A6-BAEC-9ABCD376BA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D7FD14-147A-43A6-BAEC-9ABCD376BA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D7FD14-147A-43A6-BAEC-9ABCD376BA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F32F7B9-08A6-4F66-8687-6C8F433FC4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F32F7B9-08A6-4F66-8687-6C8F433FC4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F32F7B9-08A6-4F66-8687-6C8F433FC4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F32F7B9-08A6-4F66-8687-6C8F433FC4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630408D8-B53F-4AD7-B1DB-EB8A42284628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630408D8-B53F-4AD7-B1DB-EB8A42284628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630408D8-B53F-4AD7-B1DB-EB8A42284628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630408D8-B53F-4AD7-B1DB-EB8A42284628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

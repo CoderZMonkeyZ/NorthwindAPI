@@ -1,0 +1,9 @@
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzAdapter.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzAdapter.pdb
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\obj\Debug\coderzAdapter.csprojResolveAssemblyReference.cache
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\obj\Debug\coderzAdapter.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\obj\Debug\coderzAdapter.pdb
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzFramework.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzModel.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzFramework.pdb
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzAdapter\bin\Debug\coderzModel.pdb

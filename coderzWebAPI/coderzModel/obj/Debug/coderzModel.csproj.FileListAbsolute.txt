@@ -1,0 +1,5 @@
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzModel\bin\Debug\coderzModel.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzModel\bin\Debug\coderzModel.pdb
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzModel\obj\Debug\coderzModel.csprojResolveAssemblyReference.cache
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzModel\obj\Debug\coderzModel.dll
+C:\Users\MClintsman\Documents\Visual Studio 2012\Projects\coderzWebAPI\coderzModel\obj\Debug\coderzModel.pdb
